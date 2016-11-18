@@ -1,0 +1,17 @@
+{
+    "version": "0.1.0",
+    "summary": "Test Login App to Understand Elm",
+    "repository": "https://github.com/ricardoperez/elm-login-app.git",
+    "license": "MIT",
+    "source-directories": [
+        "src",
+        "dist"
+    ],
+    "exposed-modules": [],
+    "dependencies": {
+        "elm-lang/core": "4.0.1 <= v < 5.0.0",
+        "elm-lang/html": "1.0.0 <= v < 2.0.0",
+        "evancz/elm-http": "3.0.1 <= v < 4.0.0"
+    },
+    "elm-version": "0.17.0 <= v < 0.18.0"
+}
